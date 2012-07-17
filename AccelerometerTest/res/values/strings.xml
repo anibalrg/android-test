@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">AccelerometerTest</string>
+    <string name="accelerometer">Accelerometer method 1</string>
+    <string name="x_axis">X-Axis</string>
+    <string name="y_axis">Y-Axis</string>
+    <string name="z_axis">Z-Axis</string>
+    <string name="accelerometer_desc">accelerometer</string>
+
+    <string name="accelerometer2">Accelerometer method 2</string>
+    <string name="x_axis2">X-Axis</string>
+    <string name="y_axis2">Y-Axis</string>
+    <string name="z_axis2">Z-Axis</string>
+    <string name="accelerometer_desc2">accelerometer</string>
+    
+</resources>
